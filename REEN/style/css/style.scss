@@ -1724,7 +1724,7 @@ textarea
 
 .smoothness
 {
-    transition: all 0.2s ease-in-out;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
 }
 
 .show_button_block
